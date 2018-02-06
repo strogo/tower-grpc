@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error",""]],"mod":[["client",""],["codegen","Type re-exports used by generated code"],["generic","gRPC generic over encoder / decoder."],["server",""]],"struct":[["Code",""],["Encode","A protobuf encoded gRPC response body"],["Request",""],["Response",""],["Status",""]],"type":[["Streaming","A stream of inbound gRPC messages"]]});
